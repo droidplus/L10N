@@ -47,6 +47,8 @@
     <string name="profile_title_game">Oyunlar</string>
     <string name="profile_title_profile">Profili düzenle/Engelle</string>
     <string name="profile_title_black">Engelle</string>
+    <string name="profile_title_moderators">Moderatörler</string>
+    <string name="profile_title_muted_users">Susturulmuş kullanıcılar</string>
     <string name="profile_title_logout">Çıkış Yap</string>
     <string name="activity_landing_btn_sign_up">Üye Ol</string>
     <string name="activity_landing_btn_sign_in">Giriş Yap</string>
@@ -269,6 +271,9 @@
     <string name="msg_unban_user">Engeli kaldır</string>
     <string name="msg_unban_user_description">%s kullanıcısının engeli kaldırıldı.</string>
     <string name="msg_popup_detail">Profil</string>
+    <string name="msg_mute">Sustur</string>
+    <string name="msg_unmute">Sesini aç</string>
+    <string name="msg_mute_title">%s kullanıcısını susturmak istiyor musunuz ?</string>
     <string name="emoji_no_recent">Son kullanılan ifade yok</string>
     <string name="emoji_description_back_space">Sil</string>
     <string name="emoji_description_cell">Hücre</string>
@@ -424,7 +429,6 @@
     <string name="fragment_rating_interested">İlgilenmiyorum</string>
     <string name="pref_title_video_broadcast_type">Canlı Yayın</string>
     <string name="activity_private_broadcast_head_desc">Özel canlı yayın sadece arkadaşlarınıza bildirilir.</string>
-    <string name="activity_private_broadcast_head_desc">Özel yayın Son Eklenenler sekmesinde gözükmez ve sadece seçtiğiniz kişiler bildirim alır.</string>
     <string name="activity_private_broadcast_head_select_title">KATILIMCILAR</string>
     <string name="activity_private_broadcast_make_private_button">Özel Yap (%s)</string>
     <string name="pref_entries_video_broadcast_type">Özel(%s)</string>
