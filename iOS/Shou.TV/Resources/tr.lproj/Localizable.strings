@@ -53,7 +53,7 @@
 "profile_text_games" = "Oyunlar";
 "profile_text_logout" = "Çıkış Yap";
 "profile_text_moderators" = "Moderatörler";
-"profile_text_muted_users" = "Susturulmuş kullanıcılar";
+"profile_text_muted_users" = "Engellenmiş Kullanıcılar";
 
 "landing_slogan" = "Shou \nmobil oyun yayını topluluğu.";
 "landing_btn_twitter" = "Twitter ile devam et";
@@ -75,12 +75,12 @@
 "account_text_user_views" = "%@ görüntüleme";
 "account_text_user_likes" = "%@ beğeni";
 "account_text_user_shoucash" = "%@ nakit";
-"account_text_user_viewers" = "%@ görüntüleyici";
+"account_text_user_viewers" = "%@ izleyici";
 "account_text_game_casts" = "%@ video";
 "account_text_game_players" = "%@ oyuncu";
 "account_text_user_view" = "%@ görüntüleme";
 "account_text_user_like" = "%@ beğeni";
-"account_text_user_viewer" = "%@ görüntüleyici";
+"account_text_user_viewer" = "%@ izleyici";
 "account_text_user_score" = "%@ skor";
 "account_text_game_cast" = "%@ video";
 "account_text_game_players" = "%@ oyuncu";
@@ -189,12 +189,12 @@
 "msg_hint_send_msg" = "Bir mesaj gönder";
 "msg_hint_send_disable" = "Giriş yapılmamış, gönderme devre dışı bırakıldı";
 "msg_ban_user" = "Sustur";
-"msg_ban_alert_title" = "%@ susturulsun mu ?";
+"msg_ban_alert_title" = "%@ engellensin mi ?";
 "msg_ban_alert_message" = "%@ yayıncı ile konuşamaz ve mesaj atamaz.";
 "msg_ban_alert_message_self" = "%@, seninle konuşamaz ve mesaj atamaz.";
-"msg_ban_user_description" = "%@ burada engellendi.";
+"msg_ban_user_description" = "%@ engellendi.";
 "msg_unban_user" = "Engeli Kaldır";
-"msg_unban_user_description" = "%@ buradan engeli kaldırıldı.";
+"msg_unban_user_description" = "%@ engeli kaldırıldı.";
 "msg_mod_user" = "Moderatör yap";
 "msg_unmod_user" = "Moderatörlüğü kaldır";
 "msg_popup_detail" = "Profil";
@@ -239,8 +239,8 @@
 "payment_faild" = "Satın alma başarısız!";
 "payment_success" = "Satın alma başarılı! %@ ShouCash alındı, toplamda %@ ShouCash\'iniz var";
 "payment_faild_not_allow" = " Uygulama içi satın alma devre dışı. Ayarlar > Genel > Kısıtlamalar > Uygulama içi satın almayı etkinleştir";
-"lackmoney_title_label" = "ShouCash Eksikliği!";
-"lackmoney_topup_label" = "Yayıncıyı desteklemek için daha fazla ShouCash satın alın";
+"lackmoney_title_label" = "ShouCash Eksik!";
+"lackmoney_topup_label" = "Yayıncıları desteklemek için daha fazla ShouCash satın alın";
 "lackmoney_buy_button" = "Satın Al";
 "statistics_title" = "İstatistikler";
 "statistics_title_views" = "Görüntüleme";
@@ -251,7 +251,7 @@
 "statistics_Income" = "Gelir %@";
 
 "broadcast_title" = "Canlı Yayın";
-"broadcast_camera" = "kamera";
+"broadcast_camera" = "Kamera";
 "explore_search_game" = "\"%@\" oyunu ara?";
 
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "Ne görüyorsun?";
