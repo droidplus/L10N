@@ -18,6 +18,7 @@
 "dialog_button_share" = "Paylaş";
 "dialog_button_close" = "Kapat";
 "dialog_button_cancel" = "İptal";
+"dialog_title_open_safari" = "Safari\'de açılsın mı?";
 
 "tab_home" = "Ana Sayfa";
 "tab_games" = "Oyunlar";
@@ -51,11 +52,17 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Oyunlar";
 "profile_text_logout" = "Çıkış Yap";
+"profile_text_moderators" = "Moderatörler";
+"profile_text_muted_users" = "Susturulmuş kullanıcılar";
 
-"landing_btn_twitter" = "Twitter ile giriş yap";
-"landing_btn_facebook" = "Facebook ile giriş yap";
-"landing_btn_google" = "Google ile giriş yap";
-"landing_btn_email" = "Email ile giriş yap";
+"landing_slogan" = "Shou \nmobil oyun yayını topluluğu.";
+"landing_btn_twitter" = "Twitter ile devam et";
+"landing_btn_facebook" = "Facebook ile devam et";
+"landing_btn_google" = "Google ile devam et";
+"landing_btn_email" = "Email ile devam et";
+"landing_btn_log_in_tip" = "Hesabınız mı var? Giriş yapın";
+"landing_btn_more" = "Daha fazla";
+
 "landing_btn_sign_up" = "Kaydol";
 "landing_btn_sign_in" = "Giriş Yap";
 "landing_btn_skip" = "Geç";
@@ -182,10 +189,15 @@
 "msg_send_failed" = "Bu mesaj gönderilemiyor";
 "msg_hint_send_msg" = "Bir mesaj gönder";
 "msg_hint_send_disable" = "Giriş yapılmamış, gönderme devre dışı bırakıldı";
-"msg_ban_user" = "Engelle";
+"msg_ban_user" = "Sustur";
+"msg_ban_alert_title" = "%@ susturulsun mu ?";
+"msg_ban_alert_message" = "%@ yayıncı ile konuşamaz ve mesaj atamaz.";
+"msg_ban_alert_message_self" = "%@, seninle konuşamaz ve mesaj atamaz.";
 "msg_ban_user_description" = "%@ burada engellendi.";
 "msg_unban_user" = "Engeli Kaldır";
 "msg_unban_user_description" = "%@ buradan engeli kaldırıldı.";
+"msg_mod_user" = "Moderatör yap";
+"msg_unmod_user" = "Moderatörlüğü kaldır";
 "msg_popup_detail" = "Profil";
 "msg_new_message" = "Yeni mesaj";
 "msg_send_faild_too_quickly" = "Mesajınız gönderilmedi çünkü çok hızlı mesaj gönderiyorsunuz.";
@@ -262,3 +274,12 @@
 "message_new_placeholder" = "Bir mesaj yaz...";
 "message_tip_donate_me" = "%@ kişisine %@ ShouCash bağışladın";
 "message_tip_donate" = "%@ sana %@ ShouCash bağışladı";
+
+"menu_copy" = "Kopyala";
+"menu_copy_url" = "Bağlantıyı kopyala";
+"menu_more" = "Daha fazla";
+"share_to_title" = "PAYLAŞ";
+"share_search_placeholder" = "Ara";
+"share_to_successed" = "Paylaşıldı!";
+"share_no_found_mutual" = "Birbirinizi takip ettiğiniz bir kişi bulunamadı";
+"share_to_twitter" = "#Shou\'da CANLI olarak %@ izleyin: %@ %@";
