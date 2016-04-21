@@ -456,4 +456,7 @@
     <string name="fragment_share_with_friends_change">Değiştir</string>
     <string name="activity_share_with_title">Şununla paylaş</string>
     <string name="activity_share_with_friends_title">Arkadaşlarınla paylaş</string>
+    <string name="message_mark_read">Hepsini okundu olarak işaretle</string>
+    <string name="message_mark_read_success">Bütün mesajlar okundu olarak işaretlendi</string>
+</resources>
 </resources>
