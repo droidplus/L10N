@@ -28,6 +28,7 @@
 "tab_me" = "我的";
 "tab_messages" = "訊息";
 
+"explore_broadcasters" = "主播";
 "explore_recommended" = "推薦";
 "explore_leaderboard" = "排行";
 "explore_leaderboard_text_score" = "人氣 %@";
@@ -64,12 +65,14 @@
 "landing_btn_sign_up" = "註冊";
 "landing_btn_sign_in" = "登入";
 "landing_btn_skip" = "略過";
+"landing_btn_next" = "下一步";
 "landing_google_plus_sign_in_progress" = "正在用 Google 登入";
 "landing_facebook_sign_in_progress" = "正在用 Facebook 登入";
 "landing_twitter_sign_in_progress" = "正在用 Twitter 登入";
 "landing_text_agree" = "繼續使用即表示你同意 %@ 與 %@";
 "landing_text_agree_term" = "服務條款";
 "landing_text_agree_privacy" = "隱私政策";
+"landing_suggest_title" = "推薦追蹤";
 
 "account_text_user_views" = "%@ 觀看";
 "account_text_user_likes" = "%@ 喜歡";
