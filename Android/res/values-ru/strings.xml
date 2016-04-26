@@ -128,7 +128,6 @@
     <string name="activity_game_group_favorite">Отслеживаемые</string>
     <string name="activity_game_group_played">Транслируемые</string>
     <string name="activity_find_friends_follow_all">Подписаться на всех</string>
-    <string name="activity_find_friends_title">%s друзей</string>
     <string name="activity_find_friends_text">У вас %1$s друзей на Shou.</string>
     <string name="activity_find_friends_no_people">У вас ещё нет друзей на Shou</string>
     <string name="activity_statistics_title">Статистика</string>
@@ -243,9 +242,7 @@
  
     <string name="msg_hint_send_msg">Отправить сообщение</string>
     <string name="msg_description_emoji">Эмодзи</string>
-    <string name="msg_ban_user">Заблокировать</string>
     <string name="msg_ban_user_description">Пользователь %s заблокирован в этом чате</string>
-    <string name="msg_unban_user">Unban</string>
     <string name="msg_unban_user_description">Пользователь %s разблокирован в этом чате</string>
     <string name="msg_popup_detail">Профиль</string>
     <string name="emoji_no_recent">Нет недавно использованных эмодзи</string>
@@ -301,7 +298,6 @@
     <string name="menu_statistic">Статистика</string>
     <string name="menu_charge">Купить ShouCash</string>
     <string name="msg_buy_shou_cash">Купить</string>
-    <string name="msg_description_more_cash">Купите больше ShouCash!</string>
     <string name="toast_shou_cash_failure">Ошибка ShouCash!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Не удалось найти сервисы Google Play</string>
     <string name="toast_chat_textview_load_url_failure">Не удалось загрузить ссылку</string>

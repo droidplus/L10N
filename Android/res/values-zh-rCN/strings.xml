@@ -147,7 +147,6 @@
     <string name="activity_game_group_favorite">我关注的游戏</string>
     <string name="activity_game_group_played">我直播过的游戏</string>
     <string name="activity_find_friends_follow_all">全部关注</string>
-    <string name="activity_find_friends_title">%s 朋友</string>
     <string name="activity_find_friends_text">你在 Shou.TV 有 %1$s 个 %2$s 朋友</string>
     <string name="activity_find_friends_no_people">没有任何朋友</string>
     <string name="activity_statistics_title">统计</string>
@@ -269,12 +268,10 @@
     <string name="msg_description_send">发送</string>
     <string name="msg_hint_send_msg">开始聊天</string>
     <string name="msg_description_emoji">表情</string>
-    <string name="msg_ban_user">禁言</string>
     <string name="msg_ban_user_description">%s 已经被禁言</string>
-    <string name="msg_unban_user">取消禁言</string>
     <string name="msg_unban_user_description">%s 已经被取消禁言</string>
     <string name="msg_mute_title">屏蔽 %s ？</string>
-    <string name="msg_mute_description">%s 的聊天室信息和对您的私信都将被屏蔽</string>
+    <string name="msg_mute_description">%s 将无法和你聊天或发送私信。</string>
     <string name="msg_mute_confirm">屏蔽</string>
     <string name="msg_mute_cancel">取消</string>
     <string name="emoji_no_recent">最近没有使用过表情</string>
@@ -334,7 +331,6 @@
     <string name="menu_statistic">统计</string>
     <string name="menu_charge">充值</string>
     <string name="msg_buy_shou_cash">购买</string>
-    <string name="msg_description_more_cash">获取更多的 ShouCash!</string>
     <string name="toast_shou_cash_failure">ShouCash 失败!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play 服务找不到</string>
     <string name="toast_chat_textview_load_url_failure">无法加载链接</string>
@@ -462,5 +458,5 @@
     <string name="activity_share_with_friends_title">分享给好友</string>
     <string name="message_mark_read">全部标记为已读</string>
     <string name="message_mark_read_success">所有私信标记为已读</string>
-
+    <string name="activity_find_friends_suggest_title">推荐关注</string>
 </resources>

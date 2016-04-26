@@ -149,7 +149,6 @@
     <string name="activity_game_group_favorite">Takip Edilen Oyunlar</string>
     <string name="activity_game_group_played">Oynadığın Oyunlar</string>
     <string name="activity_find_friends_follow_all">Hepsini takip et</string>
-    <string name="activity_find_friends_title">%s Arkadaş</string>
     <string name="activity_find_friends_text">Shou.TV\'de %1$s %2$s arkadaşın var.</string>
     <string name="activity_find_friends_no_people">Oyuncu bulunmadı.</string>
     <string name="activity_statistics_title">İstatistikler</string>
@@ -272,9 +271,7 @@
     <string name="msg_description_send">Gönder</string>
     <string name="msg_hint_send_msg">Bir mesaj gönder</string>
     <string name="msg_description_emoji">İfade</string>
-    <string name="msg_ban_user">Engelle</string>
     <string name="msg_ban_user_description">%s kullanıcısı engellendi.</string>
-    <string name="msg_unban_user">Engeli kaldır</string>
     <string name="msg_unban_user_description">%s kullanıcısının engeli kaldırıldı.</string>
     <string name="msg_popup_detail">Profil</string>
     <string name="msg_mute">Sustur</string>
@@ -345,7 +342,6 @@
     <string name="menu_statistic">İstatistikler</string>
     <string name="menu_charge">Satın Al</string>
     <string name="msg_buy_shou_cash">Satın Al</string>
-    <string name="msg_description_more_cash">Daha fazla ShouCash edinin!</string>
     <string name="toast_shou_cash_failure">ShouCash alımı başarısız!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play servis kaynakları bulunamadı</string>
     <string name="toast_chat_textview_load_url_failure">Bağlantı yüklenemedi</string>
