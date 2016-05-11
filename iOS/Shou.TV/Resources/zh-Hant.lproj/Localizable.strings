@@ -59,7 +59,8 @@
 "landing_btn_twitter" = "透過 Twitter 登入";
 "landing_btn_facebook" = "透過 Facebook 登入";
 "landing_btn_google" = "透過 Google 登入";
-"landing_btn_email" = "透過電子郵件地址登入";
+"landing_btn_email" = "透過 Email 註冊";
+"landing_btn_email_log_in" = "通过 Email 登录";
 "landing_btn_log_in_tip" = "已經有帳號了？登入";
 "landing_btn_more" = "更多";
 "landing_btn_sign_up" = "註冊";
@@ -212,7 +213,7 @@
 "toast_video_deleted" = "影片已被刪除";
 
 "about_title" = "關於";
-"about_title_help" = "幫助";
+"about_title_help" = "說明";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方網站";
@@ -243,7 +244,7 @@
 "payment_success" = "購買成功！";
 "payment_success" = "購買成功！新獲得 %@ 個 ShouCash，總計 %@ 個 ShouCash";
 "lackmoney_title_label" = "ShouCash 不足!";
-"lackmoney_topup_label" = "請充值後再抖內!";
+"lackmoney_topup_label" = "ShouCash 是什么？";
 "lackmoney_buy_button" = "購買";
 "statistics_title_views" = "觀看";
 "statistics_title_likes" = "喜歡";
@@ -278,11 +279,11 @@
 "message_tip_donate" = "%@ 抖內了您 %@ ShouCash";
 
 "menu_copy" = "複製";
-"menu_copy_url" = "拷貝連接";
+"menu_copy_url" = "複製連結";
 "menu_more" = "更多";
 "share_to_title" = "分享給";
 "share_search_placeholder" = "搜尋";
 "share_to_successed" = "分享成功!";
-"share_no_found_mutual" = "未找到與您互為跟隨的人";
+"share_no_found_mutual" = "未找到與您互為追蹤的人";
 "share_to_twitter" = "%@ 在 Shou 上直播，快來觀看吧: %@ %@";
 "spotlight_content" = "在 Shou 觀看 %@ 的直播";
