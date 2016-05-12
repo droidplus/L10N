@@ -62,7 +62,8 @@
 "landing_btn_twitter" = "Войти с помощью Twitter";
 "landing_btn_facebook" = "Войти с помощью Facebook";
 "landing_btn_google" = "Войти с помощью Google";
-"landing_btn_email" = "Войти с аккаунтом Shou";
++"landing_btn_email" = "Зарегистрироваться";
+ +"landing_btn_email_log_in" = "Войти с аккаунтом Shou";
 "landing_btn_sign_up" = "Зарегистрироваться";
 "landing_btn_sign_in" = "Войти";
 "landing_btn_skip" = "Пропустить";
@@ -204,7 +205,7 @@
 "msg_mod_user" = "Назначить";
 "msg_unmod_user" = "Удалить";
 "msg_popup_detail" = "Профиль";
-"msg_new_message" = "Написать сообщение...";
+"msg_new_message" = "Написать сообщение";
 "msg_send_faild_too_quickly" = "Сообщение не было отправлено, так как вы отправляете сообщения слишком часто.";
 "msg_send_faild_limit" = "Сообщение не было отправлено, так как вы отправляете сообщения слишком часто. Повторите попытку через %@ сек.";
 "msg_send_faild_same" = "Сообщение не было отправлено, так как оно совпадает с предыдущим.";
@@ -250,7 +251,7 @@
 "payment_success" = "Покупка успешно выполнена!\nПриобретено — %@ ShouCash, всего — %@ ShouCash";
 "payment_faild_not_allow" = "Встроенные покупки выключены. Перейдите в «Настройки» > «Основные» > «Ограничения» и передвиньте переключатель «Встроенные покупки» в «Вкл.»";
 "lackmoney_title_label" = "Недостаточно ShouCash!";
-"lackmoney_topup_label" = "Купите больше ShouCash";
+"lackmoney_topup_label" = "Что такое ShouCash?";
 "lackmoney_buy_button" = "Купить";
 "statistics_title" = "Статистика";
 "statistics_title_views" = "Просмотры";
@@ -277,12 +278,12 @@
 "msg_popup_moderate_description" = "Пользователь %@ назначен модератором";
 "msg_popup_moderate_cancel_description" = "Пользователь %@ удален из модераторов";
 
-"message_list_empty_placeholder" = "Здесь ещё нет сообщений";
+"message_list_empty_placeholder" = "У вас пока нет сообщений";
 "message_like_me" = "Вам понравилась трансляция пользователя %@";
 "message_like" = "Пользователю %@ понравилась ваша трансляция";
 "message_follow_me" = "Вы подписались на пользователя %@";
 "message_follow" = "Пользователь %@ подписался на вас";
-"message_new_placeholder" = "Написать сообщение...";
+"message_new_placeholder" = "Написать сообщение";
 "message_tip_donate_me" = "Вы подарили пользователю %@ %@ ShouCash";
 "message_tip_donate" = "Пользователь %@ подарил вам %@ ShouCash";
 
