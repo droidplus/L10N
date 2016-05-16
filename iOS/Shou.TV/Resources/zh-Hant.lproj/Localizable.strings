@@ -54,13 +54,15 @@
 "profile_text_logout" = "登出";
 "profile_text_moderators" = "管理人員";
 "profile_text_muted_users" = "被禁言人員";
+"profile_text_options" = "賬號設置";
+"profile_text_broadcast_camera" = "直播攝像頭";
 
 "landing_slogan" = "Shou 是一個手機遊戲直播社群";
 "landing_btn_twitter" = "透過 Twitter 登入";
 "landing_btn_facebook" = "透過 Facebook 登入";
 "landing_btn_google" = "透過 Google 登入";
-"landing_btn_email" = "透過 Email 註冊";
-"landing_btn_email_log_in" = "通过 Email 登录";
+"landing_btn_email" = "透過電子郵件註冊";
+"landing_btn_email_log_in" = "透過電子郵件登入";
 "landing_btn_log_in_tip" = "已經有帳號了？登入";
 "landing_btn_more" = "更多";
 "landing_btn_sign_up" = "註冊";
@@ -100,6 +102,7 @@
 "account_label_avatar" = "大頭貼照";
 "account_label_cover" = "封面";
 "account_label_upload_avatar" = "上傳大頭貼照";
+"account_label_phone" = "手機電話號碼";
 "account_hint_identify" = "使用者名稱或電子郵件地址";
 "account_hint_email" = "電子郵件地址";
 "account_hint_username" = "使用者名稱";
@@ -109,6 +112,7 @@
 "account_hint_current_password" = "目前密碼";
 "account_hint_new_password" = "新密碼";
 "account_hint_confirm_password" = "確認密碼";
+"account_hint_phone" = "未設置";
 "account_text_optional" = "可以不填";
 "account_text_username" = "你的使用者名稱 @%@ 是唯一的，可隨時變更。";
 "account_choose_avatar" = "選擇大頭貼照";
@@ -244,7 +248,7 @@
 "payment_success" = "購買成功！";
 "payment_success" = "購買成功！新獲得 %@ 個 ShouCash，總計 %@ 個 ShouCash";
 "lackmoney_title_label" = "ShouCash 不足!";
-"lackmoney_topup_label" = "ShouCash 是什么？";
+"lackmoney_topup_label" = "ShouCash 是什麼？";
 "lackmoney_buy_button" = "購買";
 "statistics_title_views" = "觀看";
 "statistics_title_likes" = "喜歡";
