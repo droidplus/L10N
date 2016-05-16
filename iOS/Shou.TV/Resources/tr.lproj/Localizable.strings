@@ -55,6 +55,8 @@
 "profile_text_logout" = "Çıkış Yap";
 "profile_text_moderators" = "Moderatörler";
 "profile_text_muted_users" = "Engellenmiş Kullanıcılar";
+"profile_text_options" = "Ayarlar";
+"profile_text_broadcast_camera" = "Kameradan yayın yap";
 
 "landing_slogan" = "Shou \nmobil oyun yayını topluluğu.";
 "landing_btn_twitter" = "Twitter ile devam et";
@@ -89,11 +91,12 @@
 "account_text_game_cast" = "%@ video";
 "account_text_game_players" = "%@ oyuncu";
 "account_text_joined" = "%@ tarihinde katıldı";
-"account_title_edit_profile" = "Profili düzenle";
-"account_title_change_password" = "Parolanızı değiştirin";
+"account_title_edit_profile" = "Profili Düzenle";
+"account_title_change_password" = "Parolayı Değiştir";
 "account_label_username" = "Kullanıcı Adı";
 "account_label_password" = "Şifre";
 "account_label_email" = "E-posta";
+"account_label_phone" = "Telefon Numarası";
 "account_label_full_name" = "Tam Ad";
 "account_label_biography" = "Hakkında";
 "account_label_avatar" = "Resim";
@@ -108,6 +111,7 @@
 "account_hint_confirm_password" = "Yeni parolayı onayla";
 "account_hint_name" = "isim";
 "account_hint_biography" = "hakkınızda";
+"account_hint_phone" = "Ayarlanmadı";
 "account_text_optional" = "isteğe bağlı";
 "account_text_username" = "@%@ benzersizdir. İstediğiniz anda değiştirebilirsiniz.";
 "account_choose_avatar" = "Resim seçin";
@@ -215,7 +219,7 @@
 "toast_video_deleted" = "Bu video kullanıcı tarafından silindi";
 
 "about_title" = "Hakkında";
-"about_title_help" = "Yardım";
+"about_title_help" = "Yardım Merkezi";
 "about_title_faq" = "SSS";
 "about_summary_faq" = "Shou Sıkça Sorulan Sorular";
 "about_title_website" = "Website";
@@ -229,7 +233,7 @@
 "about_title_version" = "Sürüm";
 "about_title_copyright" = "Telif hakkı";
 "about_title_rate" = "Bu uygulamayı değerlendirin";
-"about_title_feedback" = "Geri Bildirim";
+"about_title_feedback" = "Sorun Bildir";
 "about_title_instagram" = "Instagram";
 
 "From Photo Library" = "Galeriden";
