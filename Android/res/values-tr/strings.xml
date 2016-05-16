@@ -469,4 +469,5 @@
     <string name="fragment_app_player">Yayıncılar</string>
     <string name="fragment_streaming_broadcast_network_type_allowed">Mobil veri ile yayın yapmaya izin ver</string>
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">Gösterme</string>
+    <string name="toast_textview_copy_clipboard">Panoya kopyalandı</string>
 </resources>
